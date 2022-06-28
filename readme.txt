@@ -9,3 +9,5 @@ AND Merge Test!
 =======
 AND Merge Test!
 >>>>>>> feature1
+
+This is Master.
