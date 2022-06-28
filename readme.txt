@@ -3,5 +3,9 @@ The second change!
 git tracks changes!
 Git NewVersion!
 Creating a new branch is quick.
+<<<<<<< HEAD
 
-Master branch!
+AND Merge Test!
+=======
+AND Merge Test!
+>>>>>>> feature1
